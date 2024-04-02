@@ -11,11 +11,11 @@ body {
 
 .input-box {
   background: #fff;
-  width: 90%;
+  width: 100%;
   max-width: 500px;
   border-radius: 5px;
   padding: 10px 20px;
-  margin: 280px auto;
+  margin: 265px auto;
   display: flex;
   align-items: center;
   /* justify-content: space-between; */

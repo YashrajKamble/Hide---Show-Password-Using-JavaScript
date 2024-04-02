@@ -1,5 +1,15 @@
 @media only screen and (min-width: 400px) and (max-width: 450px) {
+  .input-box {
+    width: 85%;
+    max-width: 500px;
+    margin: 265px auto;
+  }
 }
 
 @media only screen and (min-width: 350px) and (max-width: 400px) {
+  .input-box {
+    width: 85%;
+    max-width: 500px;
+    margin: 265px auto;
+  }
 }
